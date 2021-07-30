@@ -1,0 +1,23 @@
+footer{
+    background: #202125;
+    width: 100%;
+    height: 20vh;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+
+.logo_footer{
+    display: flex;
+}
+
+.logo_footer h4{
+    margin: auto;
+    font-size: 30px;
+    font-family: dancing;
+}
+
+.logo_footer img{
+    padding: 12px;
+    display: block;
+}
